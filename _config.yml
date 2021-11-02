@@ -11,8 +11,7 @@ author: Dorothy Madera
 navbar-links:
   About Me: "aboutme"
   Portfolio: "projects"
-  Contact Me: "#bottom"
-
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -55,7 +54,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://github.com/maddorothy"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
