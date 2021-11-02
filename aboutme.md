@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to follow me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dorothy Madera. I'm learning web development _on my own_. 
+If that isn't a big enough task to take on, I'm also a stay-at-home-mom.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I started this journey knowing it'd be tough, but I'm not a quitter. 
+If you want to read more about my accomplishments, challeges, and everything else, check out my [blog].
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[blog]: 
