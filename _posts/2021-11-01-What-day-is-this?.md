@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What day is this?"
-tags: [JavaScript, Cloud, Coursera, Scholarship, Bootcamp, OneMonth, LinkedIn, Mike Dane, Webdev, DataStax, Typescript, Vue.js, Mom life, Blog, GitHub, Jekyll, IT]
+tags: [JavaScript, Cloud, Coursera, Scholarship, Bootcamp, OneMonth, LinkedIn, Mike Dane, WebDev, DataStax, Typescript, Vue.js, Mom life, Blog, GitHub, Jekyll, IT]
 ---
 
 I have been away from my blog for a while longer than expected. I've still be working, but maybe not as hard as I would have liked.
