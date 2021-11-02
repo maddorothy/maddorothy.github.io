@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 1, Day 5: Introduction"
-tags: [bootcamp,Mom Life,Zoom,Facebook,about me]
+tags: [bootcamp,mom life,Zoom,Facebook,about me]
 ---
 
 I think I got ahead of myself here... so I wanted to take a moment to introduce myself & where I'm coming from.
