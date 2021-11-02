@@ -1,12 +1,14 @@
 ---
+layout: post
 title: "What day is this?"
+tags: [JavaScript, Cloud, Coursera, scholarship, bootcamp, OneMonth, LinkedIn, Mike Dane, web development, DataStax, Typescript, Vue.js, mom life, blog, GitHub, GitHub Pages, Jekyll, IT]
 ---
 
 I have been away from my blog for a while longer than expected. I've still be working, but maybe not as hard as I would have liked.
 
 It's Week 16, Day 2 of my journey. I am officially 4 months in.
 
-I am still working on JavaScript. I have tried to go slow and really understand before movin gon to the next topic. I've also used a few platforms to help learn. I've used LinkedIn Learning, The Odin Project, started Coderslang, checked out a couple books. I almost feel stuck or paralyzed. But I know it's just that I've lost focus.
+I am still working on JavaScript. I have tried to go slow and really understand before moving on to the next topic. I've also used a few platforms to help learn. I've used LinkedIn Learning, The Odin Project, started Coderslang, checked out a couple books. I almost feel stuck or paralyzed. But I know it's just that I've lost focus.
 
 I started a free Cloud 101 course of Coursera. I have one more "week" of that before I finish,
 
