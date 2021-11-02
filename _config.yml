@@ -11,7 +11,7 @@ author: Dorothy Madera
 navbar-links:
   About Me: "aboutme"
   Portfolio: "projects"
-  Contact Me: #footer
+  Contact Me: "#bottom"
 
 # --- Logo --- #
 
