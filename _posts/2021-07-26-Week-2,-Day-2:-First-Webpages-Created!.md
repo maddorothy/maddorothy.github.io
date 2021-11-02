@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 2, Day 2: First Webpages Created!"
-tags: [FreeCodeCamp,css,web,podcast,html,OneMonth,SQL]
+tags: [FreeCodeCamp,css,webdev,podcast,html,OneMonth,SQL]
 ---
 
 Yesterday I created my first 2 webpages! 
