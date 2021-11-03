@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Week 2, Day 4: More SQL Practice"
+title: More SQL Practice
+subtitle: Week 2, Day 4
 tags: [FreeCodeCamp,SQL,]
 ---
 
