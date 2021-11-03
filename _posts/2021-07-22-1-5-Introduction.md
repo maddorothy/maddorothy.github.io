@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Week 1, Day 5: Introduction"
+title: Introduction
+subtitle: Week 1, Day 5
 tags: [Bootcamp,Mom life,Zoom,Facebook,About me]
 ---
 
