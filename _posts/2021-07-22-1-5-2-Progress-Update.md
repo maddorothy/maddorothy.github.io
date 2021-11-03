@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Week 1, Day 5, Part 2: Progress Update"
+title: Progress Update
+subtitle: Week 1, Day 5, Part 2
 tags: [FreeCodeCamp,GitHub,TOP,Zoom,Facebook,SQL]
 ---
 
