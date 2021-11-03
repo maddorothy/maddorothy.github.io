@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Week 1, Day 2"
+title: Getting started
+subtitle: Week 1, Day 2
 tags: [Excel, Facebook, SQL, TOP]
 ---
 
